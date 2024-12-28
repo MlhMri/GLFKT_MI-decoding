@@ -1,4 +1,4 @@
-# GFT_FKT_MI_decoding
+# GSP_FKT_MI_decoding
 
  This script is an implementation of the method proposed in:
  
