@@ -1,0 +1,7 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+README_local_no_commit_no_push.txt
